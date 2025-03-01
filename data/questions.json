@@ -1,0 +1,1569 @@
+{
+  "easy-questions": [
+    {
+      "question": "Which of the following tasks is typically performed only by a pharmacist (and not by a pharmacy technician)?",
+      "options": [
+        "Counting and pouring medications",
+        "Counseling patients about their prescriptions",
+        "Entering prescription data into the computer",
+        "Restocking pharmacy inventory"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Only pharmacists (not technicians) provide clinical counseling to patients about their medications. Technicians may count medications, enter data, and assist with inventory, but patient counseling is a pharmacist’s responsibility."
+    },
+    {
+      "question": "The abbreviation 'Rx' commonly stands for which of the following in pharmacy?",
+      "options": ["Therapy", "Pharmacy", "Prescription", "Treatment"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "'Rx' is the common abbreviation for a prescription. It originates from the Latin word 'recipe,' meaning 'to take.'"
+    },
+    {
+      "question": "Which type of pharmacy primarily serves patients in a hospital or institutional setting?",
+      "options": [
+        "Community pharmacy",
+        "Inpatient pharmacy",
+        "Mail-order pharmacy",
+        "Compounding pharmacy"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "An inpatient pharmacy is located within a hospital or similar institution and serves hospitalized patients. Community pharmacies serve the general public, mail-order pharmacies deliver medications by mail, and compounding pharmacies specialize in preparing customized medications."
+    },
+    {
+      "question": "Which of the following is a typical duty of a pharmacy technician?",
+      "options": [
+        "Diagnosing patients’ conditions",
+        "Preparing and labeling prescription medications",
+        "Prescribing medications to patients",
+        "Performing patient counseling sessions"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Pharmacy technicians commonly prepare and label prescriptions, manage inventory, and perform administrative tasks. They do not diagnose or prescribe (that’s the doctor’s role), and they do not counsel patients (that’s the pharmacist’s role)."
+    },
+    {
+      "question": "A pharmacy that specializes in preparing customized medications (such as unique dosage forms or formulations) for patients is known as a:",
+      "options": [
+        "Hospital pharmacy",
+        "Community pharmacy",
+        "Compounding pharmacy",
+        "Wholesale pharmacy"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "A compounding pharmacy prepares personalized medications by mixing ingredients to create formulations that are tailored to individual patient needs (strengths, dosage forms, flavors, etc.)."
+    },
+    {
+      "question": "What is an important aspect of good customer service for a pharmacy technician when dealing with patients?",
+      "options": [
+        "Using complex medical terms to show expertise",
+        "Actively listening to the patient’s concerns",
+        "Discussing other patients’ cases as examples",
+        "Correcting the patient’s terminology immediately"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Active listening—paying close attention and showing empathy to a patient’s concerns—is key to good customer service. Using overly complex terms or discussing other patients’ cases would not be appropriate, and immediately correcting a patient’s language might come off as rude rather than helpful."
+    },
+    {
+      "question": "Maintaining eye contact and using a calm tone of voice with a patient are examples of:",
+      "options": [
+        "Effective communication techniques",
+        "Prescription processing steps",
+        "Confidentiality breaches",
+        "Pharmacy inventory procedures"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Making eye contact and speaking in a calm tone are effective communication strategies. They help ensure the patient feels heard and at ease. These actions are unrelated to inventory or prescription processing, and they certainly are not breaches of confidentiality."
+    },
+    {
+      "question": "Professionalism in a pharmacy setting includes which of the following behaviors?",
+      "options": [
+        "Maintaining patient confidentiality at all times",
+        "Sharing patient information with friends",
+        "Wearing inappropriate attire to work",
+        "Arguing with patients when they are wrong"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Professionalism means respecting privacy (never sharing patient information inappropriately), dressing appropriately (often in uniform or business casual), and handling disagreements calmly and respectfully. Patient confidentiality is both a professional and legal requirement."
+    },
+    {
+      "question": "In pharmacology, what is a 'side effect' of a medication?",
+      "options": [
+        "The primary intended effect of the drug",
+        "An unintended effect of a drug that is not the main therapeutic outcome",
+        "A reaction that only occurs at toxic doses",
+        "The effect observed when a drug expires"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "A side effect is an unintended or secondary effect of a medication that occurs in addition to its desired therapeutic effect. For example, drowsiness from an antihistamine is a side effect. Side effects can occur at normal doses (not just toxic doses) and are different from the main intended action of the drug."
+    },
+    {
+      "question": "What is the generic name of a drug?",
+      "options": [
+        "The brand name given by a manufacturer",
+        "The chemical name of the drug’s structure",
+        "The non-proprietary (non-brand) name of the drug",
+        "An abbreviation of the drug’s chemical formula"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "The generic name is the standard non-proprietary name for a medication (e.g., ibuprofen is the generic name for the brand Motrin/Advil). It’s not owned by any one company. It’s different from the brand (trade) name, which is chosen by a manufacturer, and it’s usually simpler than the full chemical name."
+    },
+    {
+      "question": "Which dosage form is placed under the tongue for absorption?",
+      "options": [
+        "Topical cream",
+        "Sublingual tablet",
+        "Intravenous injection",
+        "Suppository"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "A sublingual tablet is designed to be placed under the tongue, where the drug can dissolve and be absorbed through the mucous membranes directly into the bloodstream. This route avoids the digestive system. A topical cream is applied to the skin, an IV injection is given into a vein, and a suppository is inserted rectally (or vaginally, depending on type)."
+    },
+    {
+      "question": "Which organ in the body is primarily responsible for the metabolism of most medications?",
+      "options": ["Liver", "Kidneys", "Lungs", "Stomach"],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "The liver is the main organ for drug metabolism (biotransformation). Enzymes in the liver (like the CYP450 system) modify drugs, often to help eliminate them. The kidneys primarily handle excretion (removing drugs/metabolites), the lungs excrete some substances (like anesthetic gases), and the stomach’s role is more for digestion/absorption than drug metabolism."
+    },
+    {
+      "question": "In pharmacology, the acronym 'ADME' stands for Absorption, Distribution, Metabolism, and ___.",
+      "options": ["Effect", "Excretion", "Efficacy", "Extension"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "ADME represents the four key pharmacokinetic processes: Absorption, Distribution, Metabolism, and Excretion. These describe what the body does to a drug (how it gets in, where it goes, how it’s broken down, and how it’s eliminated)."
+    },
+    {
+      "question": "Which condition are antibiotics specifically used to treat?",
+      "options": [
+        "High blood pressure",
+        "Bacterial infections",
+        "Chronic pain",
+        "High cholesterol"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Antibiotics are drugs that kill or inhibit bacteria, so they’re used to treat bacterial infections. They are not effective against non-bacterial conditions like high blood pressure, chronic pain, or cholesterol (which have other treatments such as antihypertensives, analgesics, and statins respectively)."
+    },
+    {
+      "question": "A medication that lowers blood pressure is called an:",
+      "options": ["Antitussive", "Antacid", "Antihypertensive", "Antipyretic"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "A drug that lowers high blood pressure is known as an antihypertensive. 'Anti' means against, and 'hypertension' means high blood pressure. Antitussives are for cough, antacids neutralize stomach acid, and antipyretics reduce fever."
+    },
+    {
+      "question": "An albuterol inhaler is typically used by patients to treat:",
+      "options": ["Diabetes", "Asthma", "High cholesterol", "Insomnia"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Albuterol is a bronchodilator commonly used in inhaler form to relieve bronchospasm in asthma (and also COPD). It relaxes the airway muscles to improve breathing. It’s not for diabetes, cholesterol, or insomnia."
+    },
+    {
+      "question": "A drug labeled as 'nephrotoxic' can have harmful effects on which organ?",
+      "options": ["Heart", "Liver", "Kidneys", "Lungs"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "'Nephrotoxic' literally means toxic or damaging to the kidneys (nephro- refers to kidney). For example, certain antibiotics like gentamicin are nephrotoxic. Hepatotoxic would refer to liver damage, cardiotoxic to the heart, and so on."
+    },
+    {
+      "question": "Which of the following medications is used to reduce stomach acid production?",
+      "options": ["Omeprazole", "Lisinopril", "Metformin", "Loratadine"],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Omeprazole is a proton pump inhibitor that significantly reduces gastric acid production, used for conditions like GERD or ulcers. Lisinopril is for blood pressure, Metformin is for diabetes, and Loratadine is an antihistamine for allergies."
+    },
+    {
+      "question": "Which of the following is an example of an opioid analgesic (pain reliever)?",
+      "options": ["Ibuprofen", "Morphine", "Amoxicillin", "Diphenhydramine"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Morphine is an opioid analgesic used to treat moderate to severe pain. Ibuprofen is an NSAID (non-opioid pain reliever), Amoxicillin is an antibiotic, and Diphenhydramine is an antihistamine."
+    },
+    {
+      "question": "What does the abbreviation NSAID stand for?",
+      "options": [
+        "Non-Steroidal Anti-Inflammatory Drug",
+        "New Sedative and Analgesic Drug",
+        "Non-Systemic Antibacterial Dose",
+        "National Standard for Approved Drugs"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "NSAID stands for Non-Steroidal Anti-Inflammatory Drug. NSAIDs, like ibuprofen or naproxen, help reduce inflammation and pain without being corticosteroids. It doesn’t relate to sedatives, antibacterials, or national standards in the other options."
+    },
+    {
+      "question": "Ascorbic acid is the chemical name for which vitamin?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "Ascorbic acid is Vitamin C. (Vitamin A is retinol, Vitamin B12 is cyanocobalamin, and Vitamin D is cholecalciferol or ergocalciferol, depending on D3 or D2 form.)"
+    },
+    {
+      "question": "Which one of these medications is an antihistamine used for allergies?",
+      "options": ["Loratadine", "Lisinopril", "Metformin", "Warfarin"],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Loratadine (brand Claritin) is a non-drowsy antihistamine used to treat allergic symptoms like hay fever. Lisinopril is for hypertension, Metformin for diabetes, and Warfarin is a blood thinner."
+    },
+    {
+      "question": "Which of the following is a common side effect of opioid pain medications such as oxycodone?",
+      "options": [
+        "Frequent coughing",
+        "Constipation",
+        "Low blood sugar",
+        "Insomnia"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Opioid analgesics often cause constipation by slowing gastrointestinal motility. This is a very common side effect. They can also cause sedation, nausea, and respiratory depression, but not effects like low blood sugar or coughing. Insomnia is not typical; opioids more often cause drowsiness."
+    },
+    {
+      "question": "Which DEA controlled substance schedule is defined by drugs that have no accepted medical use in the United States and a high potential for abuse?",
+      "options": ["Schedule I", "Schedule II", "Schedule III", "Schedule IV"],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Schedule I controlled substances (like heroin, LSD, ecstasy) have no currently accepted medical use in the U.S., a lack of accepted safety under medical supervision, and a high potential for abuse. Schedules II–V have accepted medical uses (with varying abuse potentials)."
+    },
+    {
+      "question": "Which federal agency is primarily responsible for enforcing the regulations on controlled substances?",
+      "options": ["FDA", "DEA", "CDC", "OSHA"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "The Drug Enforcement Administration (DEA) is the federal agency that enforces controlled substance laws and regulations in the United States. FDA regulates food and drug safety/approval, CDC handles disease control/public health, and OSHA oversees workplace safety."
+    },
+    {
+      "question": "How many refills are allowed on a Schedule II controlled substance prescription?",
+      "options": ["None", "One", "Five", "As many as needed within 6 months"],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Schedule II prescriptions (for drugs like oxycodone or Adderall) cannot be refilled at all under federal law. A new prescription is required for each dispense. Schedules III and IV can have up to 5 refills in 6 months; Schedule V and non-controlled substances can vary by state but often up to 1 year of refills."
+    },
+    {
+      "question": "The Poison Prevention Packaging Act (PPPA) of 1970 requires most prescription drugs to be dispensed in containers with what feature?",
+      "options": [
+        "Clear labeling",
+        "Child-resistant safety caps",
+        "Pre-printed medication guides",
+        "Tamper-evident seals"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "The PPPA mandates child-resistant packaging for many medications to prevent young children from accidentally ingesting harmful substances. There are some exceptions (e.g., sublingual nitroglycerin) and patients can request non-child-resistant caps, but by default, safety caps are required."
+    },
+    {
+      "question": "Which piece of information is required on a prescription for a controlled substance that is not required for a non-controlled prescription?",
+      "options": [
+        "Patient’s telephone number",
+        "Prescriber’s DEA number",
+        "Medication strength",
+        "Directions for use"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Prescriptions for controlled substances must include the prescriber’s DEA number. Non-controlled prescriptions don’t require a DEA number. Both types of prescriptions need patient name, drug, strength, quantity, directions, etc., but the DEA number is unique to controlled substance prescriptions."
+    },
+    {
+      "question": "Why do pharmacies use 'Tall Man' lettering (for example, hydrOXYzine vs. hydrALAzine) in drug names on labels and shelves?",
+      "options": [
+        "To satisfy branding requirements from manufacturers",
+        "To highlight differences in look-alike drug names and prevent mix-ups",
+        "To make the drug names easier to pronounce",
+        "To comply with insurance billing rules"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Tall Man lettering is a safety strategy. By capitalizing parts of look-alike names (like hydrOXYzine vs hydrALAzine), differences are emphasized, helping staff avoid picking the wrong drug when two names look similar. It’s not about branding, pronunciation, or insurance."
+    },
+    {
+      "question": "The 'five rights' of medication safety include the right patient, right drug, right dose, right route, and right ___.",
+      "options": ["Physician", "Insurance", "Time", "Price"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "The five rights are: right patient, right drug, right dose, right route, and right time. These are the core checks to ensure medication is given correctly. (Some add more rights like right documentation.)"
+    },
+    {
+      "question": "If a pharmacy technician is unsure about a prescription’s instructions or suspects a potential error, what should they do?",
+      "options": [
+        "Guess based on past experience",
+        "Ask the patient to clarify what the doctor said",
+        "Consult the pharmacist for clarification before proceeding",
+        "Call another pharmacy for advice"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "If in doubt, the technician should always pause and ask the pharmacist. The pharmacist can clarify the prescription with the prescriber if needed. Technicians should not guess or rely on the patient for clarification of a prescriber’s intent. Patient safety comes first, and the pharmacist is responsible for final verification and problem resolution."
+    },
+    {
+      "question": "Which organization publishes lists of unsafe abbreviations and medical error prevention tools used by pharmacies?",
+      "options": ["EPA", "ISMP", "FTC", "USDA"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "The Institute for Safe Medication Practices (ISMP) is a nonprofit organization devoted to medication error prevention and safe medication use. It publishes lists of error-prone abbreviations, confused drug names, and safety guidelines. The EPA (Environmental Protection Agency), FTC (Federal Trade Commission), and USDA (U.S. Dept. of Agriculture) are not focused on pharmacy abbreviations."
+    },
+    {
+      "question": "On a prescription, the abbreviation 'bid' indicates that a medication should be taken:",
+      "options": [
+        "Once a day",
+        "Twice a day",
+        "Three times a day",
+        "Four times a day"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "'bid' stands for 'bis in die' (Latin), meaning twice a day. Similarly, 'qd' means once daily, 'tid' means three times a day, and 'qid' means four times a day."
+    },
+    {
+      "question": "What does 'SIG' mean on a prescription?",
+      "options": [
+        "The patient’s signature line",
+        "Directions for use to be put on the label",
+        "Generic substitution allowed",
+        "Refill information"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "'Sig' (short for the Latin 'signa') on a prescription means the directions to the patient. It precedes the instructions that the pharmacist will put on the medication label (for example, Sig: 1 tab po daily = take one tablet by mouth daily). It does not refer to signature, substitution, or refills."
+    },
+    {
+      "question": "Which of the following is typically required to appear on a prescription label for a dispensed medication?",
+      "options": [
+        "Patient’s diagnosis",
+        "Pharmacy’s name and phone number",
+        "Patient’s Social Security number",
+        "Prescriber’s home address"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Prescription labels include information such as the pharmacy’s name, address, and phone number; patient’s name; prescriber’s name; drug name, strength, directions; fill date; prescription number; etc. A patient’s diagnosis or SSN, or the prescriber’s personal address, are not included on the label."
+    },
+    {
+      "question": "If 'DAW' (Dispense As Written) is indicated on a prescription, what does that mean?",
+      "options": [
+        "The prescription is for daytime use only",
+        "No generic substitution should be made; the brand medication must be dispensed",
+        "The drug must be given to the patient immediately",
+        "The pharmacist can dispense an alternative drug"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "DAW means 'Dispense As Written.' It tells the pharmacist not to substitute a generic version in place of the brand name drug. In other words, fill exactly as prescribed. It’s about substitution, not timing of dose or therapeutic alternates."
+    },
+    {
+      "question": "Who is legally permitted to transfer a prescription from one pharmacy to another?",
+      "options": [
+        "Any pharmacy staff member, including clerks",
+        "Only a pharmacist (or a licensed pharmacy intern, where allowed)",
+        "Only the pharmacy technician",
+        "The patient must hand-carry the prescription; transfers are not allowed"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "In most jurisdictions, prescription transfers (especially for controlled substances or any prescription with remaining refills) must be communicated directly between licensed pharmacists. In some cases, a licensed intern may do it under supervision. Technicians and clerks typically cannot legally transfer prescriptions on their own."
+    },
+    {
+      "question": "One teaspoonful is equivalent to how many milliliters (mL)?",
+      "options": ["1 mL", "5 mL", "15 mL", "10 mL"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "One teaspoonful is approximately 5 mL. This is a standard conversion used in dosing (e.g., 1 tsp = 5 mL, 1 tablespoon = 15 mL)."
+    },
+    {
+      "question": "0.5 grams is equal to how many milligrams?",
+      "options": ["0.05 mg", "5 mg", "50 mg", "500 mg"],
+      "correctOption": 3,
+      "points": 10,
+      "explanation": "There are 1,000 milligrams in 1 gram. So 0.5 grams is 0.5 × 1000 = 500 milligrams."
+    },
+    {
+      "question": "If a patient takes 2 tablets per dose and the dose is taken 3 times a day, how many tablets does the patient take in one day?",
+      "options": ["3 tablets", "6 tablets", "2 tablets", "12 tablets"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "If the patient takes 2 tablets each time, and they do this 3 times in one day, they will take 2 × 3 = 6 tablets in a day."
+    },
+    {
+      "question": "Approximately how many milliliters are in 1 fluid ounce (oz)?",
+      "options": ["5 mL", "15 mL", "30 mL", "50 mL"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "One fluid ounce is about 30 mL. (The exact conversion is 29.57 mL, but 30 mL is the commonly used approximation in pharmacy.)"
+    },
+    {
+      "question": "A dose of 1 gram is ordered. If you have 250 mg tablets in stock, how many tablets are needed to provide 1 gram?",
+      "options": ["2 tablets", "3 tablets", "4 tablets", "5 tablets"],
+      "correctOption": 2,
+      "points": 10,
+      "explanation": "1 gram = 1000 mg. If each tablet is 250 mg, then 1000 mg / 250 mg per tablet = 4 tablets."
+    },
+    {
+      "question": "USP <795> provides guidelines for which area of pharmacy practice?",
+      "options": [
+        "Non-sterile compounding of medications",
+        "Sterile compounding of medications",
+        "Manufacturing of pharmaceuticals",
+        "Dispensing controlled substances"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "USP <795> contains standards for non-sterile compounding (like creams, ointments, oral mixtures). USP <797> covers sterile compounding (IVs, injections), and USP <800> covers handling hazardous drugs. Manufacturing is overseen by FDA regulations, not USP <795>, and dispensing controlled substances is under DEA and law, not USP <795>."
+    },
+    {
+      "question": "Which of the following is an example of a non-sterile compounded dosage form a pharmacy technician might prepare?",
+      "options": [
+        "A customized topical cream or ointment",
+        "An intravenous antibiotic infusion",
+        "A pre-packaged commercial tablet",
+        "An insulin injection"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "Compounded topical creams or ointments are examples of non-sterile compounding. They’re prepared in a pharmacy to fit patient needs (e.g., unique strengths or combinations). IV infusions and insulin are sterile preparations, and a pre-packaged tablet is manufactured, not compounded."
+    },
+    {
+      "question": "In compounding, what does the technique 'trituration' involve?",
+      "options": [
+        "Mixing two liquids together",
+        "Grinding a solid into a fine powder",
+        "Heating a mixture until it dissolves",
+        "Straining a liquid through a filter"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "Trituration is the process of grinding a solid (usually using a mortar and pestle) into a fine powder. It’s a common step in compounding to ensure even texture and mixing. It doesn’t specifically mean mixing liquids (that’s blending or stirring), heating (fusion or dissolution), or filtering."
+    },
+    {
+      "question": "Which USP chapter provides the standards for sterile compounding practices?",
+      "options": ["USP <795>", "USP <797>", "USP <800>", "USP <701>"],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "USP <797> is the chapter that outlines standards for sterile compounding (e.g., IV preparations, injections, ophthalmics). USP <795> is for non-sterile compounding, USP <800> is for handling hazardous drugs, and USP <701> is unrelated to compounding (it covers disintegration tests)."
+    },
+    {
+      "question": "What is the main purpose of a laminar airflow workbench (hood) in sterile compounding?",
+      "options": [
+        "To provide an aseptic (sterile) environment for preparing medications",
+        "To contain hazardous fumes during compounding",
+        "To organize equipment and supplies",
+        "To sterilize medications after compounding"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "A laminar airflow hood is designed to maintain a sterile environment by blowing HEPA-filtered air in a uniform stream. It protects the preparation from contamination (though a biological safety cabinet is needed to protect the worker from hazardous fumes). It's primarily to keep the environment aseptic, not to sterilize products after the fact."
+    },
+    {
+      "question": "Which of the following personal protective equipment (PPE) items should a technician wear when preparing sterile IV medications?",
+      "options": [
+        "Gown, sterile gloves, mask, and hair cover",
+        "Cloth gloves and a fabric apron only",
+        "Only a lab coat",
+        "No special attire is needed in a cleanroom"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "When preparing sterile IVs, standard PPE includes hair cover, face mask, gown, sterile gloves (after proper hand washing), and often shoe covers as well. This attire helps maintain a sterile environment and protect both the product and the preparer (especially if hazardous drugs are involved). Regular cloth gloves or just a lab coat are not adequate for sterile compounding."
+    },
+    {
+      "question": "In inventory management, what does the 'FEFO' approach mean for managing drug stock?",
+      "options": [
+        "Fast Entry, Fast Out (minimize storage time)",
+        "First to Expire, First Out (dispense soon-to-expire stock first)",
+        "Free Exchange for Outdated (return expired stock for credit)",
+        "Federal Emergency Funding Order"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "explanation": "FEFO stands for 'First to Expire, First Out.' It means the pharmacy should dispense medications that will expire soon before dispensing those with later expiration dates. This helps reduce waste by using up stock that would expire first. (It’s similar to but more precise than FIFO—first in, first out—because it emphasizes expiration date rather than just purchase order)."
+    },
+    {
+      "question": "What is a drug recall?",
+      "options": [
+        "A notice to remove a medication from the market due to safety or quality issues",
+        "An annual audit of pharmacy stock",
+        "A list of drugs a pharmacy must stock",
+        "A review of new drugs approved by the FDA"
+      ],
+      "correctOption": 0,
+      "points": 10,
+      "explanation": "A drug recall is an action taken to remove a drug from the market or from use, usually because of safety concerns, contamination, mislabeling, or other quality issues. Recalls can be initiated by the manufacturer or mandated by the FDA. It’s not an audit, required stock list, or a review of new drugs."
+    }
+  ],
+  "medium-questions": [
+    {
+      "question": "A patient asks a pharmacy technician about a possible side effect of a new prescription. What is the most appropriate action for the technician?",
+      "options": [
+        "Answer based on personal experience with the medication",
+        "Advise the patient to skip the next dose if side effects occur",
+        "Refer the patient to the pharmacist for further information",
+        "Tell the patient to look it up online"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "Pharmacy technicians should not counsel on side effects or drug therapy; they should direct such questions to the pharmacist. The pharmacist is trained to provide clinical information. The technician should not guess or give medical advice."
+    },
+    {
+      "question": "Which of the following best describes the concept of 'pharmaceutical care' in pharmacy practice?",
+      "options": [
+        "Dispensing medications as quickly as possible to patients",
+        "Ensuring optimal drug therapy and outcomes for the patient with direct pharmacist involvement",
+        "Keeping the pharmacy inventory well-stocked at all times",
+        "Focusing primarily on over-the-counter product sales"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Pharmaceutical care involves the pharmacist taking an active role in patient care to optimize medication therapy and improve patient outcomes. It’s patient-centered and goes beyond just dispensing quickly or managing inventory. It includes monitoring therapy, educating patients, and collaborating with healthcare providers."
+    },
+    {
+      "question": "In a hospital pharmacy, what is a 'formulary'?",
+      "options": [
+        "A list of medications that are approved for use within that hospital or health system",
+        "A type of prescription form used by doctors",
+        "A log of controlled substances dispensed by the pharmacy",
+        "A schedule for when medications are administered on a hospital floor"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "A formulary is a list of medications that a particular hospital, health system, or insurance plan has approved for use. Hospitals use formularies to ensure safe, cost-effective, and standardized therapy. If a drug is not on the formulary, a special justification or alternative might be needed."
+    },
+    {
+      "question": "If a customer is angry about a long wait time for a prescription, what is the best initial response from the pharmacy technician?",
+      "options": [
+        "Explain the reason for the delay and sincerely apologize for the inconvenience",
+        "Raise your voice to assert control over the situation",
+        "Ignore the customer's frustration and continue working",
+        "Tell the customer they should come back at a less busy time"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "The best response is to stay calm, listen, and apologize for the inconvenience while explaining (briefly) the reason if appropriate. Showing empathy and offering information often helps defuse the situation. Being confrontational, dismissive, or telling them to leave and return later would likely escalate the customer’s anger."
+    },
+    {
+      "question": "Which of the following scenarios would be considered a breach of patient confidentiality?",
+      "options": [
+        "Discussing a patient’s medication with the prescriber",
+        "Talking about a patient's prescription with a friend not involved in their care",
+        "Reviewing a patient’s profile to check for drug interactions",
+        "Asking a patient for their date of birth at pickup to verify identity"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Sharing or discussing patient-specific information with someone who is not authorized or involved in the patient’s care (like a friend) is a breach of confidentiality. Discussing with the prescriber or checking profiles for interactions is part of care, and verifying identity (DOB) at pickup is a proper practice, not a breach."
+    },
+    {
+      "question": "If a prescription is written unclearly and the pharmacy technician cannot read the dosage, what should the technician do?",
+      "options": [
+        "Guess the intended dose based on common dosing",
+        "Ask the patient if they know what the doctor meant",
+        "Call the prescriber to clarify the prescription",
+        "Dispense the lowest possible dose to be safe"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "If a prescription is unclear or potentially erroneous, the technician should alert the pharmacist, and the pharmacist should contact the prescriber for clarification. Guessing or asking the patient to interpret the prescription is unsafe. The dose must be verified with the prescriber."
+    },
+    {
+      "question": "Which of the following describes 'active listening' by a pharmacy technician during patient interactions?",
+      "options": [
+        "Waiting for the patient to stop talking so you can speak",
+        "Nodding, maintaining eye contact, and repeating back key points to ensure understanding",
+        "Filling silence with your own talking to keep the conversation going",
+        "Correcting the patient’s statements immediately to avoid misunderstandings"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Active listening involves giving full attention to the speaker, demonstrating understanding (through body language like nodding and through reflecting back or summarizing what was said), and not interrupting. It’s about understanding the patient’s message fully before responding. Jumping in with corrections or talking over them is not active listening."
+    },
+    {
+      "question": "What two branches of pharmacology describe how the body affects a drug and how a drug affects the body, respectively?",
+      "options": [
+        "Pharmacognosy and Toxicology",
+        "Pharmacokinetics and Pharmacodynamics",
+        "Therapeutics and Diagnostics",
+        "Pharmacy and Medicine"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Pharmacokinetics (PK) is the study of what the body does to a drug (absorption, distribution, metabolism, excretion), and Pharmacodynamics (PD) is the study of what the drug does to the body (its effects and mechanisms of action)."
+    },
+    {
+      "question": "A drug’s half-life refers to the time it takes for what to occur?",
+      "options": [
+        "The drug to reach half of its maximum effect in the body",
+        "Half of the drug to be absorbed into the bloodstream",
+        "The concentration of the drug in the blood to decrease by 50%",
+        "The drug to be half metabolized and half excreted"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "A drug’s half-life is the time required for the concentration (amount) of the drug in the bloodstream to be reduced by half. It’s a pharmacokinetic parameter that helps determine dosing intervals. It doesn't directly refer to effect, absorption, or a split between metabolism/excretion."
+    },
+    {
+      "question": "Which route of administration generally produces the fastest onset of action for a drug?",
+      "options": [
+        "Oral (by mouth)",
+        "Intravenous (IV) injection",
+        "Intramuscular (IM) injection",
+        "Subcutaneous (SC) injection"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Intravenous (IV) injection delivers a drug directly into the bloodstream, providing the fastest onset of action. IM is usually next fastest, then SC, and oral tends to be slower due to absorption through the GI tract."
+    },
+    {
+      "question": "In pharmacology, an antagonist is best described as a drug that:",
+      "options": [
+        "Binds to a receptor and activates it to produce an effect",
+        "Binds to a receptor and blocks or dampens the action of an agonist",
+        "Enhances the body’s metabolism of other drugs",
+        "Produces the opposite effect of a placebo"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "An antagonist binds to a receptor but does not activate it; instead, it blocks the receptor or prevents other substances (agonists) from binding and activating it. This results in a decrease or prevention of whatever effect an agonist would normally produce at that receptor."
+    },
+    {
+      "question": "If a medication is described as 'teratogenic', it means that the drug:",
+      "options": [
+        "Can cause birth defects if used during pregnancy",
+        "Is intended for use only in children",
+        "May discolor the teeth permanently",
+        "Can cause drowsiness as a side effect"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "A teratogenic drug is one that can disturb the development of an embryo or fetus, potentially causing birth defects. This warning means such drugs should be avoided or used with caution in pregnancy. (Tetracyclines, for example, cause teeth discoloration in children, but 'teratogenic' specifically refers to birth defects risk.)"
+    },
+    {
+      "question": "Which of the following medications is a beta-blocker used to treat cardiovascular conditions such as hypertension?",
+      "options": ["Metoprolol", "Metformin", "Montelukast", "Morphine"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Metoprolol is a beta-blocker (it blocks β1-adrenergic receptors in the heart), used in treating high blood pressure, angina, and other heart conditions. Metformin is for diabetes, Montelukast is for asthma/allergies, and Morphine is an opioid analgesic."
+    },
+    {
+      "question": "Drugs like selective serotonin reuptake inhibitors (SSRIs) are classified as which type of medication?",
+      "options": [
+        "Antihistamines",
+        "Antidepressants",
+        "Anticholinergics",
+        "Analgesics"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "SSRIs (like sertraline, fluoxetine) are a class of antidepressants. They work by increasing serotonin levels in the brain. They are not antihistamines (allergy meds), anticholinergics (drugs that block acetylcholine, often affecting secretions, etc.), or analgesics (pain relievers)."
+    },
+    {
+      "question": "A patient with hypothyroidism (low thyroid function) will likely be prescribed which medication?",
+      "options": [
+        "Levothyroxine",
+        "Loratadine",
+        "Lansoprazole",
+        "Levofloxacin"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Levothyroxine is synthetic thyroid hormone (T4) and is the standard treatment for hypothyroidism, replacing the deficient hormones. Loratadine is for allergies, Lansoprazole reduces stomach acid, and Levofloxacin is an antibiotic."
+    },
+    {
+      "question": "Which class of medications is commonly used as first-line therapy to treat type 2 diabetes?",
+      "options": [
+        "Beta blockers",
+        "Biguanides (e.g., metformin)",
+        "SSRIs",
+        "Antihistamines"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Metformin (a biguanide) is the typical first-line medication for type 2 diabetes. It helps improve insulin sensitivity and reduce glucose production. Beta blockers treat blood pressure/heart issues, SSRIs treat depression, and antihistamines treat allergies."
+    },
+    {
+      "question": "Which of the following antibiotics is a fluoroquinolone?",
+      "options": ["Ciprofloxacin", "Amoxicillin", "Azithromycin", "Cephalexin"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Ciprofloxacin is a fluoroquinolone antibiotic. Amoxicillin is a penicillin (beta-lactam) antibiotic, Azithromycin is a macrolide antibiotic, and Cephalexin is a cephalosporin antibiotic."
+    },
+    {
+      "question": "Which medication is an anticoagulant used to prevent blood clots?",
+      "options": ["Warfarin", "Loratadine", "Omeprazole", "Atorvastatin"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Warfarin is an anticoagulant (blood thinner) used to prevent blood clots. Loratadine is an antihistamine, Omeprazole is a proton pump inhibitor (reduces stomach acid), and Atorvastatin is a cholesterol-lowering drug."
+    },
+    {
+      "question": "Acyclovir is an antiviral medication primarily used to treat which type of infection?",
+      "options": [
+        "Bacterial infections",
+        "Fungal infections",
+        "Viral infections (such as herpes)",
+        "Parasitic infections"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "Acyclovir is an antiviral drug commonly used to treat herpes virus infections (like genital herpes, cold sores, shingles, chickenpox). It’s not effective against bacteria (antibiotics are for those), fungi (antifungals are needed), or parasites (antiparasitic drugs are needed)."
+    },
+    {
+      "question": "Which one of the following is a benzodiazepine used for anxiety or sedation?",
+      "options": ["Lorazepam", "Lisinopril", "Lithium", "Loratadine"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Lorazepam (Ativan) is a benzodiazepine used to treat anxiety, insomnia, and for sedation. Lisinopril is an ACE inhibitor for blood pressure, Lithium is a mood stabilizer for bipolar disorder, and Loratadine is an antihistamine for allergies."
+    },
+    {
+      "question": "The Combat Methamphetamine Epidemic Act of 2005 places restrictions on the sale of which OTC drug ingredient?",
+      "options": [
+        "Dextromethorphan",
+        "Pseudoephedrine",
+        "Acetaminophen",
+        "Ibuprofen"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "The Combat Methamphetamine Epidemic Act regulates pseudoephedrine (and also ephedrine and phenylpropanolamine) sales because pseudoephedrine can be used to manufacture methamphetamine illegally. It requires photo ID, daily and monthly purchase limits, and recordkeeping. Dextromethorphan, acetaminophen, and ibuprofen aren’t covered by this law."
+    },
+    {
+      "question": "Drugs like anabolic steroids and combination products containing codeine (e.g., acetaminophen with codeine) are classified under which DEA schedule?",
+      "options": ["Schedule II", "Schedule III", "Schedule IV", "Schedule V"],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Anabolic steroids (like testosterone) and products like Tylenol #3 (acetaminophen with codeine 30mg) are Schedule III controlled substances. They have moderate potential for abuse and dependence. (Schedule II includes things like pure codeine, oxycodone; Schedule IV includes benzodiazepines; Schedule V includes things like low-dose codeine cough syrup.)"
+    },
+    {
+      "question": "Which DEA form must be used to report the theft or significant loss of controlled substances?",
+      "options": [
+        "DEA Form 222",
+        "DEA Form 41",
+        "DEA Form 106",
+        "DEA Form 224"
+      ],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "DEA Form 106 is used to formally report any significant theft or loss of controlled substances to the DEA. Form 222 is for ordering Schedule II drugs, Form 41 is for documenting destruction of controlled substances, and Form 224 is for registration of a pharmacy/practitioner."
+    },
+    {
+      "question": "According to federal law, a complete inventory of all controlled substances in a pharmacy must be done at least:",
+      "options": [
+        "Every month",
+        "Every 6 months",
+        "Every year",
+        "Every two years"
+      ],
+      "correctOption": 3,
+      "points": 20,
+      "explanation": "The DEA requires pharmacies to perform a complete controlled substance inventory at least once every two years (biennially). Many pharmacies do it more frequently (yearly or even more often) per their policies or state law, but federal law sets the minimum at every 2 years."
+    },
+    {
+      "question": "Under HIPAA, which of the following is considered protected health information (PHI)?",
+      "options": [
+        "A patient's prescription and medication history",
+        "The pharmacy’s business license number",
+        "General drug information available in a reference book",
+        "Medication stock levels in the pharmacy"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Protected Health Information (PHI) includes any individually identifiable health information, such as a patient’s prescriptions, medication history, medical records, etc. A pharmacy’s license number, general drug info, or inventory counts do not identify a patient and thus are not PHI."
+    },
+    {
+      "question": "Which law established the distinction between prescription (legend) drugs and over-the-counter drugs in the United States?",
+      "options": [
+        "Pure Food and Drug Act of 1906",
+        "Durham-Humphrey Amendment of 1951",
+        "Controlled Substances Act of 1970",
+        "Kefauver-Harris Amendment of 1962"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "The Durham-Humphrey Amendment of 1951 to the FD&C Act established the category of prescription (legend) drugs vs OTC drugs. It required that certain drugs be sold by prescription only and that such drugs be labeled “Caution: Federal law prohibits dispensing without a prescription.” The other laws had different focuses (1906 act on misbranding/adulteration, 1962 Kefauver-Harris on drug efficacy and safety, 1970 CSA on controlled substances scheduling)."
+    },
+    {
+      "question": "Which of the following situations is an example of a medication error that should be documented?",
+      "options": [
+        "A patient experiences mild nausea after taking a medication (listed side effect)",
+        "A technician accidentally fills a prescription with the wrong drug strength",
+        "A pharmacist counsels a patient on a new prescription",
+        "A patient inquires about an OTC product"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Filling a prescription with the wrong strength is a dispensing error, which is a medication error that should be documented (even if caught before it reaches the patient). Mild expected side effects, routine counseling, or general inquiries are not errors."
+    },
+    {
+      "question": "What is the primary purpose of the FDA’s MedWatch program?",
+      "options": [
+        "To allow reporting of adverse effects and drug safety issues by healthcare professionals and patients",
+        "To track controlled substance inventories in pharmacies",
+        "To manage recalls of contaminated food products",
+        "To provide pricing information for medications"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "MedWatch is the FDA’s safety information and adverse event reporting program. It enables healthcare providers and consumers to report serious adverse reactions, product quality problems, and other safety issues related to FDA-regulated products. It’s not for inventory tracking, food recalls (though FDA handles food issues, MedWatch is specifically for safety reporting), or drug pricing."
+    },
+    {
+      "question": "A 'high-alert' medication is one that:",
+      "options": [
+        "Is a new drug not yet fully tested",
+        "Has a high risk of causing significant harm to patients if used in error",
+        "Is classified as a Schedule I controlled substance",
+        "Is stored on a high shelf in the pharmacy"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "High-alert medications are drugs that bear a heightened risk of causing significant patient harm if used incorrectly. Examples include insulin, heparin, opioids, chemotherapy agents, etc. It’s not about being new or where it’s stored. These often require special safeguards (double-checks, etc.)."
+    },
+    {
+      "question": "Root Cause Analysis (RCA) in a pharmacy setting is used to:",
+      "options": [
+        "Identify which staff member is responsible for an error for disciplinary action",
+        "Determine underlying system causes of an error and find ways to prevent future errors",
+        "Report adverse drug reactions to the FDA",
+        "Calculate the cost impact of medication errors on the pharmacy"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Root Cause Analysis is a process for investigating errors or failures by looking at the underlying system factors (not individual blame) that contributed to the error. The goal is to improve processes and prevent future errors. It’s a quality improvement tool, not directly a reporting mechanism or cost analysis, and it’s not about assigning personal blame."
+    },
+    {
+      "question": "A prescription says: Lisinopril 10 mg PO qd. How should the instructions 'PO qd' be interpreted?",
+      "options": [
+        "Inject 10 mg daily",
+        "Take 10 mg by mouth every day",
+        "Apply 10 mg topically every other day",
+        "Take 10 mg by mouth four times a day"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "'PO qd' means “by mouth, every day.” So the patient should take 10 mg by mouth once daily. (QD = once daily. PO = by mouth. It does NOT mean four times a day, which would be qid, or every other day which might be written as QOD – though QD and QOD are on the “do not use” abbreviation list due to confusion.)"
+    },
+    {
+      "question": "A patient calls to refill a prescription, but the computer indicates no refills remain. What should the pharmacy technician do next?",
+      "options": [
+        "Refill the prescription one more time as a courtesy",
+        "Inform the patient that no refills are left and that the prescriber must be contacted",
+        "Suggest the patient take an over-the-counter alternative",
+        "Change the refill number in the computer and refill it"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "If no refills remain, the technician should politely inform the patient and then follow the pharmacy’s procedure for refill authorization—often contacting the prescriber’s office to request a new prescription or refill approval. Refilling without authorization or altering records is not allowed, and recommending an OTC alternative without pharmacist input is inappropriate."
+    },
+    {
+      "question": "Which of the following is required on a written prescription for a Schedule II controlled substance that is not required on a prescription for a non-controlled medication?",
+      "options": [
+        "Prescriber’s DEA number",
+        "Patient’s name",
+        "Date of issue",
+        "Drug name"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Schedule II (and all controlled) prescriptions must include the prescriber’s DEA number. Non-controlled prescriptions do not need a DEA number. Both controlled and non-controlled Rxs require patient name, date, drug name/strength, etc., but the DEA number is unique to controlled substances."
+    },
+    {
+      "question": "What is an NDC (National Drug Code) number used for in pharmacy practice?",
+      "options": [
+        "Identifying a drug’s manufacturer, drug, and package size",
+        "Checking a patient’s insurance status",
+        "Ordering medications from a wholesaler",
+        "Tracking controlled substances only"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "An NDC is a unique 10- or 11-digit number that identifies a specific drug product. It’s broken into three segments indicating the labeler (manufacturer), product, and package size. Pharmacies use NDCs for product identification, verification, and inventory. While NDCs are used when ordering and even billing, their purpose is identification of drug specifics, not insurance status or exclusively controlled substances."
+    },
+    {
+      "question": "How many grams of NaCl are in 500 mL of normal saline (0.9% NaCl) solution?",
+      "options": ["0.45 g", "4.5 g", "9 g", "45 g"],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "0.9% NaCl means 0.9 g per 100 mL. For 500 mL: 0.9 g/100 mL × 500 mL = 4.5 g of NaCl. (Normal saline is 0.9% w/v.)"
+    },
+    {
+      "question": "Amoxicillin suspension is labeled 250 mg per 5 mL. How many milliliters are needed for a 500 mg dose?",
+      "options": ["5 mL", "7.5 mL", "10 mL", "15 mL"],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "250 mg is contained in 5 mL. To get 500 mg, which is double 250 mg, you would need double the volume: 10 mL. (This is because 500 mg/ (250 mg/5 mL) = 500/50 = 10 mL.)"
+    },
+    {
+      "question": "A prescription says to take 1 tablet TID for 30 days. How many tablets should be dispensed for a 30-day supply?",
+      "options": ["30 tablets", "60 tablets", "90 tablets", "120 tablets"],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "TID means three times a day. If one tablet is taken three times daily, that’s 3 tablets a day. Over 30 days: 3 × 30 = 90 tablets needed."
+    },
+    {
+      "question": "A cough syrup has 100 mL in the bottle. The directions are 2 teaspoonfuls twice daily. How many days will this bottle last?",
+      "options": ["5 days", "7 days", "10 days", "12 days"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "2 teaspoonfuls = 10 mL (since 1 tsp = 5 mL), given twice daily means 20 mL per day. A 100 mL bottle / 20 mL per day = 5 days supply."
+    },
+    {
+      "question": "If 1 liter of IV fluid is to infuse over 8 hours, what is the infusion rate in mL per hour?",
+      "options": ["80 mL/hour", "100 mL/hour", "125 mL/hour", "200 mL/hour"],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "1 liter is 1000 mL. Over 8 hours, 1000 mL / 8 hr = 125 mL/hour. So the IV should be set to 125 mL/hr."
+    },
+    {
+      "question": "A prescription calls for 15 g of a 2% hydrocortisone cream. How many grams of hydrocortisone powder are needed to prepare this compound?",
+      "options": ["0.3 g", "0.6 g", "3 g", "7.5 g"],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "2% (w/w) means 2 g of drug per 100 g of final cream. For 15 g of cream: (2 g / 100 g) × 15 g = 0.3 g of hydrocortisone needed. The rest of the weight (14.7 g) will be the cream base."
+    },
+    {
+      "question": "Which compounding calculation method would you use to determine how to mix a 10% ointment and a 2% ointment to get a 5% ointment?",
+      "options": [
+        "Alligation",
+        "Dimensional analysis",
+        "Trituration",
+        "Young’s rule"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "Alligation is the method used to calculate how to mix two solutions or mixtures of different concentrations to achieve a desired intermediate concentration. (Young’s rule is for pediatric dosing by age, trituration is grinding to powder, dimensional analysis is a general calculation method.)"
+    },
+    {
+      "question": "According to USP <795>, what is the maximum beyond-use date for a water-containing oral formulation (e.g., an oral suspension) stored in the refrigerator?",
+      "options": ["48 hours", "7 days", "14 days", "30 days"],
+      "correctOption": 2,
+      "points": 20,
+      "explanation": "USP <795> recommends that for a water-containing oral formulation (like a reconstituted antibiotic or a compounded suspension), the beyond-use date should be not more than 14 days when stored in the refrigerator, unless stability data suggests otherwise."
+    },
+    {
+      "question": "When preparing chemotherapy (hazardous) IV medications, which type of hood or safety cabinet must be used?",
+      "options": [
+        "Horizontal laminar airflow hood",
+        "Vertical laminar airflow hood (biological safety cabinet)",
+        "No hood is required if gloves are worn",
+        "Any laminar hood as long as it’s in a cleanroom"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Hazardous IVs (like chemo) should be prepared in a vertical laminar airflow hood, also known as a Class II biological safety cabinet (BSC), which protects both the product (maintaining sterility) and the compounder (by venting hazardous vapors through HEPA filters to the outside). A horizontal hood blows air toward the worker, which is unsafe for hazardous drugs. Proper PPE is also required."
+    },
+    {
+      "question": "In sterile compounding, ISO Class 5 air quality is required in the direct compounding area. What does ISO Class 5 signify?",
+      "options": [
+        "Extremely clean air with very low levels of particulate matter",
+        "A moderate level of room air quality",
+        "Air quality suitable for a typical office space",
+        "The highest level of particulate concentration"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "ISO Class 5 air is extremely clean, allowing no more than 100 particles ≥0.5 micron per cubic foot of air (3,520 particles per cubic meter). It’s the standard for the air immediately around sterile compounding. By comparison, typical room air might be ISO Class 8 or worse (much dirtier). So ISO 5 is very low particulate (clean) air."
+    },
+    {
+      "question": "If a laminar airflow hood has been turned off, how long should it run before use to re-establish a sterile environment?",
+      "options": [
+        "At least 30 minutes",
+        "5 minutes",
+        "No wait is needed if it’s in a cleanroom",
+        "2 hours"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "It’s generally recommended to let a laminar flow hood run for about 30 minutes after turning it on (if it was off) before using it for compounding. This allows the HEPA-filtered air to purge any contaminants and ensure ISO Class 5 conditions. Shorter times (like 5 minutes) are not sufficient."
+    },
+    {
+      "question": "When withdrawing a solution from an ampule during sterile compounding, what special device should be used?",
+      "options": [
+        "A filter needle to prevent glass shards from entering the syringe",
+        "An insulin syringe for accuracy",
+        "A vented needle to equalize pressure",
+        "No special device is needed, just a regular needle"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "When using ampules, you should use a filter needle or filter straw to withdraw the liquid. This filters out any glass particles that may have fallen into the solution when the ampule was snapped open. After drawing, you typically switch to a regular needle to inject the solution (so you don’t inject via the filter needle)."
+    },
+    {
+      "question": "What is a 'perpetual inventory' system for controlled substances like Schedule II medications?",
+      "options": [
+        "A system that keeps a continuous, real-time record of inventory levels and transactions",
+        "Conducting a physical count of inventory daily",
+        "An inventory count done only when the DEA requests it",
+        "A one-time inventory check when the pharmacy opens"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "A perpetual inventory is maintained in real-time: whenever a controlled drug is received or dispensed, the inventory log is immediately updated. This way, at any moment, the record should reflect the actual amount on hand. (Many pharmacies use perpetual inventories for C-II drugs to closely track them.)"
+    },
+    {
+      "question": "Upon receiving a recall notice for a particular medication, what should be the pharmacy’s first step?",
+      "options": [
+        "Immediately remove all stock of the recalled medication from inventory to prevent dispensing",
+        "Continue dispensing the medication until replacements arrive",
+        "Contact patients before taking any action",
+        "Ignore the notice if no patients have complained"
+      ],
+      "correctOption": 0,
+      "points": 20,
+      "explanation": "The first action is to pull the recalled drug from stock to ensure it is not dispensed. After that, the pharmacy would follow instructions in the recall notice, which may include returning the product, notifying patients or prescribers, etc., depending on the recall specifics. Dispensing a recalled med or ignoring the notice is inappropriate."
+    }
+  ],
+  "hard-questions": [
+    {
+      "question": "A pharmacy technician notices that a prescribed dose on a new prescription is much higher than normal for that medication. What is the BEST next step for the technician?",
+      "options": [
+        "Adjust the dose to a normal range before filling",
+        "Fill the prescription as written because the doctor is responsible for dosing",
+        "Alert the pharmacist about the unusual dose for verification",
+        "Ask the patient if the doctor discussed this high dose"
+      ],
+      "correctOption": 2,
+      "points": 30,
+      "explanation": "If a prescription’s dose looks abnormal or potentially unsafe, the technician should bring it to the pharmacist’s attention immediately. The pharmacist can then verify the dose with the prescriber or check clinical resources. Technicians should never alter a prescription or assume it’s correct without pharmacist review."
+    },
+    {
+      "question": "In a hospital setting, a physician calls in a new medication order over the phone. What should the pharmacy technician do in this situation?",
+      "options": [
+        "Write down the order and immediately start preparing the medication",
+        "Politely ask the physician to speak directly with a pharmacist to provide the order",
+        "Take the order and have a nurse confirm it later",
+        "Refuse to handle the order because phone orders are not allowed"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "Technicians should not accept verbal medication orders from prescribers. In a hospital, telephone or verbal orders must be communicated directly to a pharmacist (or to a nurse, who then writes it as a telephone order to be later signed by the physician). The technician should get the pharmacist on the line to take the order."
+    },
+    {
+      "question": "During a pharmacist’s counseling session with a patient, the pharmacy technician observes the patient looking confused. What is the most appropriate action for the technician?",
+      "options": [
+        "Interrupt and explain the instructions in simpler terms to the patient",
+        "Quietly alert the pharmacist that the patient may be confused, so the pharmacist can clarify",
+        "Wait until the patient leaves and then call them to explain",
+        "Do nothing because only the pharmacist is responsible for counseling"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "If the technician notices the patient seems confused, the best approach is to subtly alert the pharmacist to ensure the patient’s understanding. The pharmacist can then rephrase or clarify. The technician should not directly interrupt with an explanation (as counseling is the pharmacist’s role), but doing nothing isn’t ideal if misunderstanding is apparent."
+    },
+    {
+      "question": "A patient who speaks very little English comes to pick up a prescription. What is the best way for the pharmacy to ensure the patient understands how to take their medication?",
+      "options": [
+        "Use an interpreter service or translated labels to communicate the instructions",
+        "Speak more loudly and slowly in English to get the point across",
+        "Give the patient written information in English and hope they can translate it",
+        "Refuse service until the patient brings someone who can speak English"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "The pharmacy should use available resources such as a professional interpreter, translation services, or printed materials in the patient’s preferred language. Simply speaking louder or insisting they come back with someone is not appropriate. Ensuring understanding, even across language barriers, is part of patient care."
+    },
+    {
+      "question": "If a drug has a very narrow therapeutic index, what does this mean?",
+      "options": [
+        "It treats only a very specific condition",
+        "There is a small range between an effective dose and a toxic dose, requiring careful monitoring",
+        "It can be stored only in a narrow temperature range",
+        "It has very few side effects"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "A narrow therapeutic index means the difference between therapeutic and toxic doses is small. Drugs like warfarin, lithium, or digoxin have narrow therapeutic windows and often require monitoring (like blood levels) to ensure safety. It doesn’t necessarily relate to conditions treated, storage, or side effect count."
+    },
+    {
+      "question": "Which pharmacokinetic parameter is most closely related to determining a drug’s dosing interval (how often it must be administered)?",
+      "options": [
+        "Therapeutic index",
+        "Half-life",
+        "Mechanism of action",
+        "Volume of distribution"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "A drug’s half-life (the time for the blood concentration to fall by half) is a key factor in deciding how frequently doses are needed to maintain effective levels. Generally, dosing intervals are around the length of the half-life (or some multiple of it). Therapeutic index is about safety margin, mechanism of action is pharmacodynamic, and volume of distribution relates to distribution but not directly to how often to dose."
+    },
+    {
+      "question": "Bioavailability is a term that describes:",
+      "options": [
+        "The fraction of an administered dose that reaches the systemic circulation in an unchanged form",
+        "How widely a drug is distributed throughout the body",
+        "The rate of drug absorption in the stomach",
+        "The extent of drug binding to plasma proteins"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Bioavailability is the portion of a drug dose that enters the systemic circulation intact. For IV drugs, it’s 100%. Oral drugs often have less than 100% due to absorption issues or first-pass metabolism. It doesn’t directly refer to distribution, absorption rate (it’s more about extent), or protein binding."
+    },
+    {
+      "question": "Drug A induces certain liver enzymes. Drug B is metabolized by those enzymes. If Drug A and Drug B are taken together, what is likely to happen to Drug B’s levels or effects?",
+      "options": [
+        "Drug B’s levels will increase, increasing its effects",
+        "Drug B’s levels will decrease, reducing its effects",
+        "Drug B will become completely inactive",
+        "Drug B’s metabolism will slow down, causing toxicity"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "If Drug A induces (speeds up) the enzymes that metabolize Drug B, Drug B will be broken down faster. That usually means Drug B’s levels will drop quicker and its effect will be reduced. Enzyme induction leads to lower levels of the affected drug (opposite of inhibition, which raises levels). It wouldn’t make B completely inactive in one go, but it would reduce B’s concentration over time."
+    },
+    {
+      "question": "A patient is having a severe anaphylactic reaction to an antibiotic. Which medication should be administered immediately as the first-line treatment?",
+      "options": [
+        "Epinephrine (adrenaline) injection",
+        "Diphenhydramine (Benadryl) tablets",
+        "Naloxone (Narcan) nasal spray",
+        "Albuterol inhaler"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Epinephrine injection (usually intramuscular, like an EpiPen) is the first-line, life-saving treatment for anaphylaxis. It works rapidly to open airways, raise blood pressure, and reduce swelling. Diphenhydramine or steroids might be given later as adjuncts, but epinephrine is the critical first step. Naloxone reverses opioid overdose, and albuterol helps asthma but isn’t sufficient for full anaphylaxis."
+    },
+    {
+      "question": "Non-selective beta blockers (affecting both beta-1 and beta-2 receptors) should be used cautiously in patients with which condition because they may worsen it?",
+      "options": [
+        "Asthma or other respiratory disorders",
+        "Hypothyroidism",
+        "Liver disease",
+        "Chronic headaches"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Non-selective beta blockers (like propranolol) block beta-2 receptors in the lungs, which can lead to bronchoconstriction. They can precipitate asthma attacks or worsen COPD symptoms. Cardioselective beta-1 blockers are preferred for patients with respiratory issues. They aren’t specifically contraindicated in hypothyroid or liver disease for this reason, and headaches are not the main concern (though beta blockers can even treat certain headache conditions)."
+    },
+    {
+      "question": "Patients taking warfarin for anticoagulation need regular monitoring of which laboratory value to ensure safe and effective therapy?",
+      "options": [
+        "International Normalized Ratio (INR)",
+        "Blood urea nitrogen (BUN)",
+        "Hemoglobin A1c",
+        "White blood cell count"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Warfarin therapy is monitored by the INR (which standardizes the prothrombin time). The INR tells how quickly blood clots relative to a normal value, guiding dose adjustments. BUN checks kidney function, A1c is for blood sugar control in diabetes, and WBC is for infection or immune status – none of those guide warfarin dosing."
+    },
+    {
+      "question": "A common persistent side effect of ACE inhibitors (like lisinopril) that may require a change in therapy is:",
+      "options": [
+        "A dry, hacking cough",
+        "Insomnia",
+        "Weight gain",
+        "Gum overgrowth"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "ACE inhibitors often cause a dry, non-productive cough in some patients due to bradykinin build-up. It can be bothersome enough that patients are switched to an ARB (like losartan) as an alternative. Insomnia and weight gain are not typical ACE-I effects, and gum overgrowth is associated with drugs like phenytoin or cyclosporine, not ACE inhibitors."
+    },
+    {
+      "question": "Metformin is a first-line medication for type 2 diabetes. One rare but serious adverse effect associated with metformin therapy is:",
+      "options": [
+        "Lactic acidosis",
+        "Severe hypoglycemia",
+        "Kidney stones",
+        "Thyroid dysfunction"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Metformin can rarely cause lactic acidosis, a build-up of lactic acid in the blood, which is why it’s contraindicated in patients with significant renal or hepatic impairment (conditions that predispose to lactic acidosis). Unlike insulin or sulfonylureas, metformin usually does not cause hypoglycemia by itself. It’s not known for causing kidney stones or thyroid issues."
+    },
+    {
+      "question": "Which antibiotic is known for potential nephrotoxicity and thus often requires monitoring of kidney function (e.g., BUN and creatinine levels) during therapy?",
+      "options": [
+        "Gentamicin (an aminoglycoside antibiotic)",
+        "Azithromycin (a macrolide antibiotic)",
+        "Amoxicillin (a penicillin antibiotic)",
+        "Amlodipine (a calcium channel blocker)"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Gentamicin, and other aminoglycosides, can be nephrotoxic (kidney-damaging) and ototoxic. Patients on gentamicin often have renal function monitored and doses adjusted accordingly. Azithromycin and amoxicillin have much lower kidney toxicity risk, and amlodipine is not an antibiotic at all."
+    },
+    {
+      "question": "Taking an SSRI antidepressant like escitalopram together with an MAOI like tranylcypromine can lead to a dangerous condition known as:",
+      "options": [
+        "Serotonin syndrome",
+        "Stevens-Johnson syndrome",
+        "Cushing's syndrome",
+        "Metabolic syndrome"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Combining SSRIs (which increase serotonin) with MAOIs (which prevent serotonin breakdown) can cause serotonin syndrome – a potentially life-threatening condition with symptoms like agitation, confusion, rapid heart rate, dilated pupils, muscle rigidity, and high fever. It’s why there must be a washout period when switching between SSRIs and MAOIs. The other syndromes listed are unrelated (SJS is a skin reaction, Cushing’s is high cortisol, metabolic syndrome relates to cardiovascular risk factors)."
+    },
+    {
+      "question": "What is a major safety concern when dispensing isotretinoin (Accutane) for acne treatment?",
+      "options": [
+        "It can cause severe acne flare if one dose is missed",
+        "It is highly teratogenic and requires enrollment in the iPLEDGE program with mandatory pregnancy tests",
+        "It is a controlled substance due to high abuse potential",
+        "Patients must avoid all dairy products while on this medication"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "Isotretinoin is known to cause severe birth defects. It’s dispensed under the iPLEDGE program, which requires prescribers, pharmacists, and patients to register. Female patients of childbearing potential must have negative pregnancy tests and use contraception. It’s not a controlled drug (no abuse potential), missing a dose won’t flare acne dramatically, and dairy doesn’t need avoidance (that concern fits tetracyclines more for binding with calcium, though isotretinoin can be taken with food to increase absorption)."
+    },
+    {
+      "question": "Which vaccine is stored frozen and must be reconstituted before administration to a patient?",
+      "options": [
+        "Varicella (chickenpox) vaccine",
+        "Influenza (flu) vaccine",
+        "Tdap (tetanus, diphtheria, pertussis) vaccine",
+        "Hepatitis B vaccine"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "The varicella vaccine (and the older Zostavax for shingles) is stored in the freezer and needs to be reconstituted with diluent right before use. Most flu shots are refrigerated (not frozen), as are Tdap and Hep B vaccines."
+    },
+    {
+      "question": "Which of these medications, commonly prescribed for ADHD, is classified as a Schedule II controlled substance?",
+      "options": ["Methylphenidate", "Sertraline", "Diazepam", "Buprenorphine"],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Methylphenidate (Ritalin/Concerta), like amphetamine mixtures (Adderall), is a Schedule II controlled substance due to its high potential for abuse and use in ADHD. Sertraline is not controlled, Diazepam is Schedule IV, and Buprenorphine is Schedule III."
+    },
+    {
+      "question": "A patient with a known severe penicillin allergy should likely avoid which antibiotic due to possible cross-reactivity?",
+      "options": [
+        "Cephalexin (a cephalosporin antibiotic)",
+        "Azithromycin (a macrolide antibiotic)",
+        "Ciprofloxacin (a fluoroquinolone antibiotic)",
+        "Clindamycin (a lincosamide antibiotic)"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Cephalosporins like cephalexin have a small risk of cross-allergy in patients with penicillin allergy (especially if the penicillin reaction was severe). While many penicillin-allergic patients can tolerate cephalosporins, a history of anaphylaxis to penicillin would make one cautious. Azithromycin, ciprofloxacin, and clindamycin are unrelated to penicillins and are generally safe alternatives."
+    },
+    {
+      "question": "In an emergency, a pharmacist may dispense a Schedule II drug on the basis of an oral prescription from a prescriber. Which of the following is TRUE about this situation?",
+      "options": [
+        "The pharmacist must receive a written prescription from the prescriber within 7 days of the oral order",
+        "No follow-up written prescription is required after the emergency dispensing",
+        "The pharmacy technician can take the oral prescription for the Schedule II drug",
+        "The prescriber can authorize any quantity of the Schedule II drug for the emergency beyond the immediate need"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "In an emergency, a pharmacist can take a verbal order for a Schedule II (a very limited exception). The prescriber must provide a written, signed prescription covering the emergency quantity within 7 days (federal law; some states say 72 hours). The quantity is supposed to be limited to the emergency period. Techs cannot take such verbal orders, and a follow-up written Rx is definitely required."
+    },
+    {
+      "question": "Pregabalin (Lyrica) and certain cough syrups with codeine are examples of drugs in which DEA schedule?",
+      "options": ["Schedule II", "Schedule III", "Schedule IV", "Schedule V"],
+      "correctOption": 3,
+      "points": 30,
+      "explanation": "Pregabalin and many low-dose codeine combination products (like some codeine cough syrups) are Schedule V controlled substances. These have a lower potential for abuse relative to Schedules II–IV. (By contrast, codeine when combined in higher doses (e.g., Tylenol #3) is Schedule III, and by itself in high doses can be Schedule II.)"
+    },
+    {
+      "question": "Which law or amendment required drug manufacturers to provide proof of both safety and efficacy before a drug could be approved, and came about in 1962 after the thalidomide tragedy?",
+      "options": [
+        "Pure Food and Drug Act",
+        "Kefauver-Harris Amendment",
+        "Durham-Humphrey Amendment",
+        "Controlled Substances Act"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "The Kefauver-Harris Amendment of 1962 (to the FD&C Act) was passed after birth defects from thalidomide abroad. It required drug manufacturers to prove their drugs are effective (in addition to safe) before FDA approval, and established more stringent clinical trial oversight. The Pure Food and Drug Act (1906) dealt with misbranding/adulteration, Durham-Humphrey (1951) separated Rx from OTC, and the Controlled Substances Act (1970) created the DEA schedules."
+    },
+    {
+      "question": "Which DEA form is used to document the destruction or disposal of controlled substances?",
+      "options": [
+        "DEA Form 222",
+        "DEA Form 106",
+        "DEA Form 41",
+        "DEA Form 224"
+      ],
+      "correctOption": 2,
+      "points": 30,
+      "explanation": "DEA Form 41 is used when controlled substances are destroyed (for instance, expired or unwanted controlled drugs being disposed of with DEA authorization). Form 222 is for ordering CIIs, 106 is for reporting theft or loss, and 224 is for registering with the DEA."
+    },
+    {
+      "question": "What does it mean if a drug is deemed to be 'misbranded'?",
+      "options": [
+        "The drug is contaminated or impure",
+        "The drug’s labeling is false, misleading, or missing required information",
+        "The drug is a generic version of a brand-name product",
+        "The drug has not been stored at the proper temperature"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "A drug is considered misbranded if its labeling is incorrect or misleading or if it lacks required information (like proper directions or warnings). For example, if a drug’s label doesn’t list the correct strength or ingredients, it’s misbranded. Adulterated refers to issues with the drug’s purity or quality (contamination, etc.)."
+    },
+    {
+      "question": "The OBRA '90 (Omnibus Budget Reconciliation Act of 1990) requires pharmacists to perform which of the following for Medicaid patients?",
+      "options": [
+        "Offer to counsel patients on their medications",
+        "Limit the patient to 5 medications at a time",
+        "Report all filled prescriptions to the DEA",
+        "Provide medications free of charge"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "OBRA '90 introduced the requirement that pharmacists perform prospective drug utilization review and offer to counsel Medicaid patients about their prescriptions. This has effectively become standard practice for all patients. It didn’t limit number of meds, involve DEA reporting, or free medications."
+    },
+    {
+      "question": "The pharmacy has two drugs with very similar packaging and names that have been mixed up in the past. What is a good quality assurance strategy to prevent this error?",
+      "options": [
+        "Physically separate where and how these look-alike medications are stored on the shelves, and use warning labels",
+        "Only order one of the medications at a time to avoid having both in stock",
+        "Have a single technician always handle both medications",
+        "Stop stocking one of the medications permanently"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Storing look-alike/sound-alike drugs apart from each other and using special labels or stickers to draw attention to their names are proven strategies (per ISMP) to reduce mix-ups. Not stocking needed meds isn’t feasible, and relying on one person doesn’t address system safety (plus that person might not always be available)."
+    },
+    {
+      "question": "After a medication error has occurred and the immediate safety of the patient is ensured, what is the next step in handling the error?",
+      "options": [
+        "Document the error in an incident report for review and process improvement",
+        "Discipline the staff involved before anything else",
+        "Contact law enforcement",
+        "Ignore it if the patient wasn’t harmed"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Once the patient is safe, the error should be documented according to the pharmacy’s policies (often using an incident report). This documentation allows analysis of why the error happened and how to prevent it in the future. Discipline might or might not be appropriate depending on circumstances, but the focus should first be on understanding the cause. Even if no harm occurred, reporting near-misses or no-harm errors is important for improvement. Law enforcement is not typically involved in routine medication errors."
+    },
+    {
+      "question": "Which of the following prescription abbreviations is on the Joint Commission’s “Do Not Use” list because of its high potential for misinterpretation?",
+      "options": [
+        "PO (by mouth)",
+        "Q.O.D. (every other day)",
+        "PRN (as needed)",
+        "BID (twice a day)"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "“Q.O.D.” (every other day) is on the “Do Not Use” list because it can be misread as QD (daily) or QID (4 times a day) if the dot or O are not seen clearly. It’s recommended to write 'every other day' instead. PO, PRN, and BID are generally acceptable and not on the do-not-use list."
+    },
+    {
+      "question": "Which organization accredits healthcare facilities (such as hospitals) and focuses on patient safety and quality standards, including medication safety practices?",
+      "options": [
+        "The Joint Commission (TJC)",
+        "FDA",
+        "DEA",
+        "Pharmacy Technician Certification Board (PTCB)"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "The Joint Commission accredits and certifies healthcare organizations. Its accreditation process evaluates compliance with certain performance standards, many of which involve patient safety (including proper medication management). The FDA approves drugs, the DEA regulates controlled substances, and the PTCB certifies pharmacy technicians."
+    },
+    {
+      "question": "Interpret the following sig: 'ii gtt OS q4h prn'. What should the medication label instruct the patient to do?",
+      "options": [
+        "Instill two drops in the left eye every 4 hours as needed",
+        "Take two tablets by mouth every 4 hours as needed",
+        "Instill two drops in the right eye every 4 hours on a schedule",
+        "Use two puffs inhaled every 4 hours as needed"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "“ii gtt OS q4h prn” translates to: “Instill 2 drops into the left eye every 4 hours as needed.” (ii = 2, gtt = drops, OS = left eye, q4h = every 4 hours, prn = as needed)."
+    },
+    {
+      "question": "In an inpatient (hospital) pharmacy, which of the following is NOT typically required on a unit-dose medication label prepared by the pharmacy?",
+      "options": [
+        "Medication name and strength",
+        "Lot number and expiration date",
+        "Patient’s name and identification number",
+        "Dosage form (e.g., tablet, capsule) and quantity"
+      ],
+      "correctOption": 2,
+      "points": 30,
+      "explanation": "Unit-dose packages prepared in the pharmacy generally include the drug name, strength, dosage form, manufacturer lot number, and new expiration date. They usually do NOT include a specific patient’s name/ID because they are often prepared in bulk before being assigned to patients. Patient-specific information goes on the medication administration record or patient-specific cassette, not on each unit-dose label (except in some cases when dispensed in patient-specific drawers)."
+    },
+    {
+      "question": "While entering a new prescription, the computer system alerts the pharmacy technician to a potential drug-drug interaction (DUR alert). What should the technician do?",
+      "options": [
+        "Override the alert and continue filling since it’s likely irrelevant",
+        "Stop and inform the pharmacist so they can evaluate the interaction and decide on the action",
+        "Call the prescriber directly to change the prescription",
+        "Ignore the alert if the patient has taken these medications before"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "When a DUR (Drug Utilization Review) or interaction alert pops up, the technician should halt and get the pharmacist’s attention. The pharmacist will assess the significance of the interaction and take appropriate steps (contact prescriber, counsel patient, etc.). Technicians should not just override or ignore alerts without pharmacist review."
+    },
+    {
+      "question": "Translate the following directions into plain English: 'i-ii tabs po q6h prn pain, NTE 8 tabs/24h.'",
+      "options": [
+        "Take 1 tablet by mouth every 6 hours for pain for 24 hours",
+        "Take one to two tablets by mouth every 6 hours as needed for pain, not to exceed 8 tablets in 24 hours",
+        "Take two tablets by mouth every 6 hours around the clock for 8 days",
+        "Take 1 tablet by mouth 6 times a day as needed for pain"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "“i-ii tabs po q6h prn pain, NTE 8 tabs/24h” means: Take 1 to 2 tablets by mouth every 6 hours as needed for pain, with a maximum of 8 tablets in 24 hours (NTE = not to exceed)."
+    },
+    {
+      "question": "How many milliliters of a 20% w/v solution are needed to obtain 10 grams of the active ingredient?",
+      "options": ["20 mL", "50 mL", "100 mL", "200 mL"],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "A 20% w/v solution has 20 g per 100 mL. To get 10 g, proportionally: (100 mL / 20 g) × 10 g = 50 mL. Another way: 20% = 20 g/100 mL, so 1 mL has 0.2 g. To get 10 g: 10 g ÷ 0.2 g/mL = 50 mL."
+    },
+    {
+      "question": "A child weighs 44 pounds. The pediatric dose for a medication is 5 mg/kg. How many milligrams should the child receive per dose?",
+      "options": ["44 mg", "100 mg", "220 mg", "5 mg"],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "First convert 44 lb to kg: 1 kg = 2.2 lb, so 44 lb ≈ 20 kg (since 44/2.2 = 20). At 5 mg per kg, dose = 5 mg × 20 kg = 100 mg per dose."
+    },
+    {
+      "question": "An IV infusion of 1000 mL is ordered to run over 8 hours using an IV set with a drop factor of 15 drops/mL. What should the flow rate be in drops per minute? (Round to the nearest whole drop.)",
+      "options": [
+        "21 drops/minute",
+        "31 drops/minute",
+        "42 drops/minute",
+        "125 drops/minute"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "First find mL per minute: 1000 mL/8 hours = 125 mL/hour. Divide by 60: 125/60 ≈ 2.083 mL/min. Drop factor 15 drops/mL means 2.083 mL/min × 15 drops/mL ≈ 31.25 drops/min, which rounds to ~31 drops per minute."
+    },
+    {
+      "question": "You need to prepare 1000 mL of a 20% dextrose solution using a 30% dextrose solution and a 10% dextrose solution. How many milliliters of each will you mix? (Alligation method)",
+      "options": [
+        "500 mL of 30% and 500 mL of 10%",
+        "750 mL of 30% and 250 mL of 10%",
+        "250 mL of 30% and 750 mL of 10%",
+        "600 mL of 30% and 400 mL of 10%"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Using alligation: place 30% and 10% at the ends and 20% desired in the middle. The parts of 30% needed = 20 - 10 = 10 parts; parts of 10% needed = 30 - 20 = 10 parts. So it’s a 1:1 ratio (equal parts). Therefore, out of 1000 mL, use 500 mL of 30% and 500 mL of 10% to get 20%. (Each will contribute half.)"
+    },
+    {
+      "question": "How many 250 mg capsules are required to provide a total of 15000 mg of medication (for compounding an oral suspension)?",
+      "options": ["30 capsules", "60 capsules", "45 capsules", "75 capsules"],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "15000 mg total / 250 mg per capsule = 60 capsules needed to have 15000 mg of active drug. (Because 250 mg × 60 = 15000 mg.)"
+    },
+    {
+      "question": "A TPN order includes 500 mL of D50W (50% dextrose in water). How many grams of dextrose does this contain?",
+      "options": ["25 g", "50 g", "100 g", "250 g"],
+      "correctOption": 3,
+      "points": 30,
+      "explanation": "D50W is 50% w/v dextrose, meaning 50 g per 100 mL. In 500 mL: (50 g/100 mL) × 500 mL = 250 g of dextrose. (Another way: 0.50 × 500 mL = 250 g, since 1 mL of water weighs ~1 g, 50% of that weight is dextrose.)"
+    },
+    {
+      "question": "An insulin vial is labeled U-100 (100 units/mL). How many milliliters are needed to draw up a 35-unit dose of insulin?",
+      "options": ["0.35 mL", "3.5 mL", "0.7 mL", "35 mL"],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "U-100 insulin has 100 units in 1 mL. To get 35 units: 35 units × (1 mL/100 units) = 0.35 mL. (3.5 mL would contain 350 units, etc. Always remember U-100 means 100 units per mL, so units/100 = mL.)"
+    },
+    {
+      "question": "You need to prepare 120 mL of a 0.2% (w/v) solution. You have a 2% (w/v) stock solution available. How many milliliters of the 2% solution will you use to make the 0.2% solution (before diluting to 120 mL)?",
+      "options": ["12 mL", "24 mL", "60 mL", "108 mL"],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Use dilution: C1V1 = C2V2. (2%)(V1) = (0.2%)(120 mL). V1 = (0.2 × 120) / 2 = 24 / 2 = 12 mL of the 2% stock (and then dilute up to 120 mL total). Another way: 2% is 10× stronger than 0.2%, so you need 1/10th of the final volume from stock: 1/10 of 120 mL = 12 mL."
+    },
+    {
+      "question": "In compounding, the technique of geometric dilution is used to:",
+      "options": [
+        "Achieve a thorough and uniform mixing of a small amount of a drug with a larger amount of base",
+        "Filter out particulate matter from solutions",
+        "Triturate tablets into a fine powder",
+        "Adjust the pH of a compound"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Geometric dilution is a method of blending powders (or semisolids) where you mix a small amount of a potent substance with an equal amount of diluent, then continue doubling the mixture amount stepwise. This ensures even distribution of a small quantity of active ingredient throughout a large base. It’s not about filtering, simply grinding (that’s trituration), or pH adjustment."
+    },
+    {
+      "question": "A prescription requires mixing equal parts of a 2% cream and a 0.5% cream to make 60 g of a compounded cream. What will be the final concentration of the active ingredient in the mixed cream?",
+      "options": ["1.25%", "1.0%", "0.75%", "2.5%"],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "If equal parts are mixed, the final concentration is the average of the two concentrations. (2.0% + 0.5%) / 2 = 2.5% / 2 = 1.25%. You could also reason 30 g of 2% has 0.6 g drug and 30 g of 0.5% has 0.15 g drug, totaling 0.75 g in 60 g, which is 0.75/60 = 0.0125 = 1.25%.)"
+    },
+    {
+      "question": "According to USP <800>, how frequently must personnel be trained and competency assessed in handling hazardous drugs?",
+      "options": [
+        "Before handling hazardous drugs for the first time only",
+        "At least every 12 months (annually)",
+        "Every 5 years",
+        "Only when a new hazardous drug is introduced"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "USP <800> requires that staff handling hazardous drugs receive training at least annually. They should also be trained initially (and whenever new procedures or new hazardous drugs are added). This ensures competency is maintained. Waiting 5 years or only doing one-time training is insufficient."
+    },
+    {
+      "question": "What ISO class is required for the air in the buffer (clean) room where sterile compounding takes place (according to USP <797>)?",
+      "options": ["ISO Class 5", "ISO Class 7", "ISO Class 8", "ISO Class 3"],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "The buffer room (cleanroom) must meet at least ISO Class 7 air cleanliness. The primary engineering control (like the laminar hood) provides ISO Class 5 at the work surface. The anteroom is typically ISO 8 (if it opens to a positive-pressure cleanroom). ISO 3 is much cleaner than required."
+    },
+    {
+      "question": "During sterile compounding, a needle accidentally touches a non-sterile surface. What is the appropriate immediate action?",
+      "options": [
+        "Continue compounding if it was only a brief touch",
+        "Swap out the contaminated needle for a new sterile needle before continuing",
+        "Wipe the needle with alcohol and keep using it",
+        "Start the entire compounding process over from the beginning"
+      ],
+      "correctOption": 1,
+      "points": 30,
+      "explanation": "If a sterile needle or other component touches a non-sterile surface, it’s contaminated. Replace it with a new sterile one immediately to maintain sterility of the compounding process. You wouldn’t necessarily have to restart everything unless the product itself was contaminated. Simply wiping a needle with alcohol is not sufficient to ensure sterility."
+    },
+    {
+      "question": "When reconstituting a hazardous chemotherapy drug for injection, which additional precautions should be taken beyond standard sterile compounding?",
+      "options": [
+        "Using a closed-system transfer device and wearing appropriate chemotherapy PPE (double gloves, gown)",
+        "Working in a horizontal laminar flow hood with no extra PPE",
+        "Performing the task quickly to minimize exposure instead of using a hood",
+        "Compounding it on the countertop in a low-traffic area"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "When preparing hazardous drugs like chemo, one should use a Class II BSC (vertical flow hood) ideally with a closed-system transfer device, and wear chemotherapy-rated PPE (such as double chemo gloves, protective gown, eye protection if splash risk). Horizontal hoods don’t protect the worker, and working outside of a hood or simply “fast” is unsafe. Chemo must never be compounded on an open countertop."
+    },
+    {
+      "question": "According to DEA regulations, Schedule II controlled substances must be stored in the pharmacy:",
+      "options": [
+        "In a securely locked, substantially constructed cabinet or safe",
+        "On the same shelves as other prescription medications",
+        "In a locked refrigerator at all times",
+        "In plain view near the pharmacy counter"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Federal law allows two options: either store Schedule IIs (and other controls) in a securely locked cabinet/safe or disperse them throughout regular stock to obstruct theft. However, most pharmacies keep CIIs in a locked safe. They definitely shouldn’t be out in plain sight or accessible. (If refrigeration is needed, the fridge should be locked too.)"
+    },
+    {
+      "question": "When returning expired Schedule II medications to a reverse distributor for disposal, which form or method must be used?",
+      "options": [
+        "Transfer them using a DEA Form 222 (or the electronic equivalent)",
+        "Document the transfer with DEA Form 106",
+        "Dispose of them using DEA Form 41 without further documentation",
+        "No special form is required for returning Schedule II drugs"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Schedule II drugs require a DEA 222 form for any transfer, including sending to a reverse distributor for destruction. The reverse distributor will then use DEA Form 41 when they destroy the drugs. DEA Form 106 is for losses/theft. There is always paperwork; you can’t just hand over CIIs without a form."
+    },
+    {
+      "question": "A Class I drug recall indicates that:",
+      "options": [
+        "There is a reasonable probability that the use of or exposure to the product will cause serious adverse health consequences or death",
+        "The product may cause temporary or medically reversible adverse health consequences",
+        "The product is not likely to cause any adverse health consequences",
+        "The recall is for minor packaging issues with no health risk"
+      ],
+      "correctOption": 0,
+      "points": 30,
+      "explanation": "Class I recalls are the most serious, for defects that could cause serious health problems or death. Class II recalls involve reversible or temporary health issues, and Class III recalls are for issues unlikely to cause health harm (like packaging or cosmetic defects)."
+    }
+  ]
+}
