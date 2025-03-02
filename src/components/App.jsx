@@ -111,48 +111,46 @@ export default function App() {
   useEffect(() => {
     if (status === "loading") {
       const loadQuestions = async () => {
-        if (difficulty === "mixed") {
-          const total = numQuestions;
-          const perCategory = Math.floor(total / 3);
-          const remainder = total % 3;
-          const limits = [
-            perCategory + (remainder > 0 ? 1 : 0), // easyLimit
-            perCategory + (remainder > 1 ? 1 : 0), // mediumLimit
-            perCategory, // hardLimit
-          ];
-          try {
-            const [easy, medium, hard] = await Promise.all([
-              fetchQuestions("http://localhost:9000/easy-questions"),
-              fetchQuestions("http://localhost:9000/medium-questions"),
-              fetchQuestions("http://localhost:9000/hard-questions"),
-            ]);
+        try {
+          // Fetch the entire JSON file from the public folder.
+          const fullData = await fetchQuestions(
+            "/data/questions_shuffled_balanced.json"
+          );
+
+          if (difficulty === "mixed") {
+            const total = numQuestions;
+            const perCategory = Math.floor(total / 3);
+            const remainder = total % 3;
+            const limits = [
+              perCategory + (remainder > 0 ? 1 : 0), // easyLimit
+              perCategory + (remainder > 1 ? 1 : 0), // mediumLimit
+              perCategory, // hardLimit
+            ];
+
+            const easy = fullData["easy-questions"];
+            const medium = fullData["medium-questions"];
+            const hard = fullData["hard-questions"];
+
             const mixedQuestions = shuffleArray([
               ...selectQuestions(easy, limits[0]),
               ...selectQuestions(medium, limits[1]),
               ...selectQuestions(hard, limits[2]),
             ]);
             dispatch({ type: "dataReceived", payload: mixedQuestions });
-          } catch (error) {
-            dispatch({ type: "dataFailed" });
-          }
-        } else {
-          let endpoint = "";
-          if (difficulty === "easy") {
-            endpoint = "http://localhost:9000/easy-questions";
-          } else if (difficulty === "medium") {
-            endpoint = "http://localhost:9000/medium-questions";
-          } else if (difficulty === "difficult") {
-            endpoint = "http://localhost:9000/hard-questions";
-          }
-          try {
-            const data = await fetchQuestions(endpoint);
+          } else {
+            let key = "";
+            if (difficulty === "easy") key = "easy-questions";
+            else if (difficulty === "medium") key = "medium-questions";
+            else if (difficulty === "difficult") key = "hard-questions";
+
+            const data = fullData[key];
             dispatch({
               type: "dataReceived",
               payload: selectQuestions(data, numQuestions),
             });
-          } catch (err) {
-            dispatch({ type: "dataFailed" });
           }
+        } catch (err) {
+          dispatch({ type: "dataFailed" });
         }
       };
       loadQuestions();
