@@ -1,25 +1,75 @@
-function FinishScreen({ points, maxPossiblePoints, dispatch }) {
+import Confetti from "./Confetti";
+
+function formatTime(totalSeconds) {
+  const hrs = Math.floor(totalSeconds / 3600);
+  const mins = Math.floor((totalSeconds % 3600) / 60);
+  const secs = totalSeconds % 60;
+  let formatted = "";
+  if (hrs > 0) {
+    formatted += `${hrs}h `;
+  }
+  if (mins > 0 || hrs > 0) {
+    formatted += `${mins}m `;
+  }
+  formatted += `${secs}s`;
+  return formatted;
+}
+
+function FinishScreen({
+  points,
+  maxPossiblePoints,
+  dispatch,
+  correctCount,
+  totalQuestions,
+  timeSpent,
+}) {
   const percentage = (points / maxPossiblePoints) * 100;
-  let emoji;
-  if (percentage === 100) emoji = "🥇";
-  else if (percentage >= 80) emoji = "🎉";
-  else if (percentage >= 50) emoji = "🙃";
-  else if (percentage > 0) emoji = "🤨";
-  else emoji = "🤦‍♂️";
+  let emoji, feedbackMessage;
+  if (percentage === 100) {
+    emoji = "🥇";
+    feedbackMessage = "Perfect score! Outstanding performance!";
+  } else if (percentage >= 80) {
+    emoji = "🎉";
+    feedbackMessage = "Great job! You really know your stuff.";
+  } else if (percentage >= 50) {
+    emoji = "🙃";
+    feedbackMessage = "Not bad, but there's room to improve.";
+  } else if (percentage > 0) {
+    emoji = "🤨";
+    feedbackMessage = "You got some right—review and try again!";
+  } else {
+    emoji = "🤦‍♂️";
+    feedbackMessage = "Don't worry, practice makes perfect!";
+  }
 
   return (
     <div className="finish-screen">
-      <p className="result">
+      <h3>
         <span className="emoji">{emoji}</span> You scored{" "}
         <strong>{points}</strong> out of {maxPossiblePoints} (
         {Math.ceil(percentage)}%)
-      </p>
+      </h3>
+      <h3 className="feedback">{feedbackMessage}</h3>
+      <div className="stats">
+        <p>
+          <strong>Correct Answers:</strong> {correctCount} out of{" "}
+          {totalQuestions}
+        </p>
+        {timeSpent !== undefined && (
+          <p>
+            <strong>Time Taken:</strong> {formatTime(timeSpent)}
+          </p>
+        )}
+      </div>
       <button
         className="btn restart-btn"
         onClick={() => dispatch({ type: "restart" })}
       >
         Restart
       </button>
+      <div>
+        <Confetti />
+      </div>
     </div>
   );
 }

@@ -1,0 +1,47 @@
+{
+  "easy-questions": [
+    ...
+    {
+      "question": "Which of the following tasks is typically performed only by a pharmacist (and not by a pharmacy technician)?",
+      "options": [
+        "Counting and pouring medications",
+        "Counseling patients about their prescriptions",
+        "Entering prescription data into the computer",
+        "Restocking pharmacy inventory"
+      ],
+      "correctOption": 1,
+      "points": 3,
+      "explanation": "Only pharmacists (not technicians) provide clinical counseling to patients about their medications. Technicians may count medications, enter data, and assist with inventory, but patient counseling is a pharmacist’s responsibility."
+    },
+    ...
+  ],
+  "medium-questions": [
+    ...
+    {
+      "question": "Root Cause Analysis (RCA) in a pharmacy setting is used to:",
+      "options": [
+        "Identify which staff member is responsible for an error for disciplinary action",
+        "Determine underlying system causes of an error and find ways to prevent future errors",
+        "Report adverse drug reactions to the FDA",
+        "Calculate the cost impact of medication errors on the pharmacy"
+      ],
+      "correctOption": 1,
+      "points": 20,
+      "explanation": "Root Cause Analysis is a process for investigating errors or failures by looking at the underlying system factors (not individual blame) that contributed to the error. The goal is to improve processes and prevent future errors. It’s a quality improvement tool, not directly a reporting mechanism or cost analysis, and it’s not about assigning personal blame."
+    },
+    ...
+  ],
+  "hard-questions": {
+    "question": "Translate the following directions into plain English: 'i-ii tabs po q6h prn pain, NTE 8 tabs/24h.'",
+    "options": [
+      "Take 1 tablet by mouth every 6 hours for pain for 24 hours",
+      "Take one to two tablets by mouth every 6 hours as needed for pain, not to exceed 8 tablets in 24 hours",
+      "Take two tablets by mouth every 6 hours around the clock for 8 days",
+      "Take 1 tablet by mouth 6 times a day as needed for pain"
+    ],
+    "correctOption": 1,
+    "points": 30,
+    "explanation": "“i-ii tabs po q6h prn pain, NTE 8 tabs/24h” means: Take 1 to 2 tablets by mouth every 6 hours as needed for pain, with a maximum of 8 tablets in 24 hours (NTE = not to exceed)."
+  },
+  ...
+}
