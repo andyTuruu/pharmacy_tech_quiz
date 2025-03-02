@@ -1,19 +1,5 @@
 import Confetti from "./Confetti";
-
-function formatTime(totalSeconds) {
-  const hrs = Math.floor(totalSeconds / 3600);
-  const mins = Math.floor((totalSeconds % 3600) / 60);
-  const secs = totalSeconds % 60;
-  let formatted = "";
-  if (hrs > 0) {
-    formatted += `${hrs}h `;
-  }
-  if (mins > 0 || hrs > 0) {
-    formatted += `${mins}m `;
-  }
-  formatted += `${secs}s`;
-  return formatted;
-}
+import { formatTime } from "./helpers";
 
 function FinishScreen({
   points,
@@ -55,11 +41,9 @@ function FinishScreen({
           <strong>Correct Answers:</strong> {correctCount} out of{" "}
           {totalQuestions}
         </p>
-        {timeSpent !== undefined && (
-          <p>
-            <strong>Time Taken:</strong> {formatTime(timeSpent)}
-          </p>
-        )}
+        <p>
+          <strong>Time Taken:</strong> {formatTime(timeSpent)}
+        </p>
       </div>
       <button
         className="btn restart-btn"
@@ -67,9 +51,7 @@ function FinishScreen({
       >
         Restart
       </button>
-      <div>
-        <Confetti />
-      </div>
+      <Confetti />
     </div>
   );
 }

@@ -1,6 +1,10 @@
 import { useState } from "react";
 import CustomQuestionsAccordion from "./CustomQuestionsAccordion";
 
+// Define the available options in arrays.
+const difficultyOptions = ["easy", "medium", "difficult", "mixed"];
+const questionCounts = [10, 15, 20, 25];
+
 function Settings({ dispatch }) {
   const [customNum, setCustomNum] = useState(10);
   const [customActive, setCustomActive] = useState(false);
@@ -23,62 +27,31 @@ function Settings({ dispatch }) {
       <div className="difficulty">
         <h3>Select the quiz difficulty:</h3>
         <div className="difBtn-group">
-          <button
-            className={`btn ${difficulty === "easy" ? "selected" : ""}`}
-            onClick={() => setDifficulty("easy")}
-          >
-            Easy
-          </button>
-          <button
-            className={`btn ${difficulty === "medium" ? "selected" : ""}`}
-            onClick={() => setDifficulty("medium")}
-          >
-            Medium
-          </button>
-          <button
-            className={`btn ${difficulty === "difficult" ? "selected" : ""}`}
-            onClick={() => setDifficulty("difficult")}
-          >
-            Difficult
-          </button>
-          <button
-            className={`btn ${difficulty === "mixed" ? "selected" : ""}`}
-            onClick={() => setDifficulty("mixed")}
-          >
-            Mixed
-          </button>
+          {difficultyOptions.map((option) => (
+            <button
+              key={option}
+              className={`btn ${difficulty === option ? "selected" : ""}`}
+              onClick={() => setDifficulty(option)}
+            >
+              {option.charAt(0).toUpperCase() + option.slice(1)}
+            </button>
+          ))}
         </div>
       </div>
       <div className={`numQuestions ${customActive ? "disabled" : ""}`}>
         <h3>Select the number of questions:</h3>
         <div className="numBtn-group">
-          <button
-            className={`btn ${numQuestions === 10 ? "selected" : ""}`}
-            onClick={() => setNumQuestions(10)}
-          >
-            10
-          </button>
-          <button
-            className={`btn ${numQuestions === 15 ? "selected" : ""}`}
-            onClick={() => setNumQuestions(15)}
-          >
-            15
-          </button>
-          <button
-            className={`btn ${numQuestions === 20 ? "selected" : ""}`}
-            onClick={() => setNumQuestions(20)}
-          >
-            20
-          </button>
-          <button
-            className={`btn ${numQuestions === 25 ? "selected" : ""}`}
-            onClick={() => setNumQuestions(25)}
-          >
-            25
-          </button>
+          {questionCounts.map((count) => (
+            <button
+              key={count}
+              className={`btn ${numQuestions === count ? "selected" : ""}`}
+              onClick={() => setNumQuestions(count)}
+            >
+              {count}
+            </button>
+          ))}
         </div>
       </div>
-
       <CustomQuestionsAccordion
         customNum={customNum}
         setCustomNum={setCustomNum}
