@@ -22,7 +22,7 @@ function CustomQuestionsAccordion({
             id="customRange"
             type="range"
             min={5}
-            max={50}
+            max={60}
             value={customNum}
             onChange={(e) => setCustomNum(Number(e.target.value))}
           />
