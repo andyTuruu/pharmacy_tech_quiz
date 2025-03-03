@@ -4,6 +4,13 @@
 
 Check out the live quiz here: [Pharmacy Tech Quiz Live](https://pharmacy-tech-quiz.netlify.app/)
 
+![Pharmacy Tech Quiz Preview 1](./PTQ1.png)  
+![Pharmacy Tech Quiz Preview 2](./PTQ2.png)  
+![Pharmacy Tech Quiz Preview 3](./PTQ3.png)  
+![Pharmacy Tech Quiz Preview 4](./PTQ4.png)  
+![Pharmacy Tech Quiz Preview 5](./PTQ5.png)  
+![Pharmacy Tech Quiz Preview 6](./PTQ6.png)  
+
 ## Features
 
 - **Dynamic Question Generation:**  
@@ -48,7 +55,7 @@ On the start screen, select the quiz difficulty and choose the number of questio
 Navigate through questions by selecting your answer for each. The quiz tracks your score and time automatically.
 
 - **View Results**:
-After finishing the quiz, see your score, the number of correct answers, time taken, and a fun celebratory animation based on your performance.
+After finishing the quiz, see your score, the number of correct answers, time taken, and a fun celebratory animation.
 
 - **Restart Quiz**:
 You can restart the quiz anytime from the results screen.
