@@ -5,6 +5,7 @@ function Error() {
         ⛔️
       </span>
       <span>There was an error fetching questions.</span>
+      <span></span>
     </div>
   );
 }

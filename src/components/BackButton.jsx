@@ -1,4 +1,7 @@
-function BackButton({ dispatch }) {
+import { useQuiz } from "../contexts/QuizContext";
+
+function BackButton() {
+  const { dispatch } = useQuiz();
   return (
     <button
       className="back-button"

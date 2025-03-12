@@ -1,11 +1,13 @@
 import { useState } from "react";
 import CustomQuestionsAccordion from "./CustomQuestionsAccordion";
+import { useQuiz } from "../contexts/QuizContext";
 
 // Define the available options in arrays.
 const difficultyOptions = ["easy", "medium", "difficult", "mixed"];
 const questionCounts = [10, 15, 20, 25];
 
-function Settings({ dispatch }) {
+function Settings() {
+  const { dispatch } = useQuiz();
   const [customNum, setCustomNum] = useState(10);
   const [customActive, setCustomActive] = useState(false);
   const [difficulty, setDifficulty] = useState("easy"); // default to "easy"

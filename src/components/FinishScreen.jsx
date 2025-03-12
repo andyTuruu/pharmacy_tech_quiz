@@ -1,14 +1,17 @@
+import { useQuiz } from "../contexts/QuizContext";
 import Confetti from "./Confetti";
 import { formatTime } from "./helpers";
 
-function FinishScreen({
-  points,
-  maxPossiblePoints,
-  dispatch,
-  correctCount,
-  totalQuestions,
-  timeSpent,
-}) {
+function FinishScreen() {
+  const {
+    points,
+    maxPossiblePoints,
+    dispatch,
+    correctCount,
+    numQuestions,
+    timeSpent,
+  } = useQuiz();
+
   const percentage = (points / maxPossiblePoints) * 100;
   let emoji, feedbackMessage;
   if (percentage === 100) {
@@ -38,8 +41,7 @@ function FinishScreen({
       <h3 className="feedback">{feedbackMessage}</h3>
       <div className="stats">
         <p>
-          <strong>Correct Answers:</strong> {correctCount} out of{" "}
-          {totalQuestions}
+          <strong>Correct Answers:</strong> {correctCount} out of {numQuestions}
         </p>
         <p>
           <strong>Time Taken:</strong> {formatTime(timeSpent)}
