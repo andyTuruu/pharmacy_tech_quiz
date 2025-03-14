@@ -2,6 +2,8 @@
 
 **Pharmacy Tech Quiz** is a dynamic, React-based quiz application designed to help users prepare for pharmacy technician exams. The quiz covers a broad range of topics from pharmacy basics and customer service to pharmacology, compounding, and inventory management.
 
+## Demo
+
 Check out the live quiz here: [Pharmacy Tech Quiz Live](https://pharmacy-tech-quiz.netlify.app/)
 
 ![Pharmacy Tech Quiz Preview 1](./PTQ1.png)  
@@ -24,11 +26,6 @@ Check out the live quiz here: [Pharmacy Tech Quiz Live](https://pharmacy-tech-qu
 
 - **Performance Feedback:**  
   Tracks your score, time taken, and correct answers, and enjoy a celebratory animations upon completion.
-
-## Demo
-
-Experience the quiz live at:  
-[https://pharmacy-tech-quiz.netlify.app/](https://pharmacy-tech-quiz.netlify.app/)
 
 ## Installation
 
